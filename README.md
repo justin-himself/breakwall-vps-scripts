@@ -8,6 +8,7 @@ sudo su
 cd ~/
 apt install git -y
 git clone https://github.com/justin-himself/breakwall-vps-scripts.git ./scripts
-sudo rm -r ./scripts/.git ./scripts/README.txt
+sudo rm -r ./scripts/.git ./scripts/README.md
 chmod +x ./scripts/*
+cd ./scripts/
 ```
