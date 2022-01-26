@@ -56,7 +56,7 @@ cat << EOF > server-config.json
 "datashard": 10,
 "parityshard": 3,
 "dscp": 0,
-"nocomp": false,
+"nocomp": false
 }
 EOF
 
