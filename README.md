@@ -13,7 +13,7 @@ chmod +x ./scripts/*
 cd ./scripts/
 ```
 
-warp (menu.sh) 使用: https://opensourcelibs.com/lib/fscarmen-warp
+warp (menu.sh) 使用: https://github.com/fscarmen/warp/blob/main/README.md
 
 speedtest:
 
