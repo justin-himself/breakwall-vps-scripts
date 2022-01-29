@@ -12,3 +12,5 @@ sudo rm -r ./scripts/.git ./scripts/README.md
 chmod +x ./scripts/*
 cd ./scripts/
 ```
+
+warp 使用: https://opensourcelibs.com/lib/fscarmen-warp
