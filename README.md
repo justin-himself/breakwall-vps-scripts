@@ -15,6 +15,13 @@ cd ./scripts/
 
 warp (menu.sh) 使用: https://github.com/fscarmen/warp/blob/main/README.md
 
+hysteria:
+
+```bash
+su - root #Change to root
+bash <(curl -fsSL https://git.io/hysteria.sh)
+```
+
 speedtest:
 
 ```bash
